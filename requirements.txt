@@ -2,9 +2,9 @@ asgiref==3.7.2
 Django
 django-widget-tweaks==1.4.8
 djongo
-dnspython==2.4.2
-pymongo==3.11.0
+dnspython
+pymongo
 pytz==2023.3.post1
-sqlparse==0.2.4
-tzdata==2023.3
-whitenoise==6.5.0
+sqlparse
+tzdata
+whitenoise
