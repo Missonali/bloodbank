@@ -8,3 +8,4 @@ pytz==2023.3.post1
 sqlparse
 tzdata
 whitenoise
+gunicorn
